@@ -1,1 +1,2 @@
-This is the feature branchg
+This is the feature branch ex2
+new line hii
